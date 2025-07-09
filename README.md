@@ -14,13 +14,13 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="185" src="https://cdna.artstation.com/p/assets/images/images/035/589/978/original/pixel-jeff-dream2.gif?1615369313"  />
 </div>
 
 ###
 
-<h3 align="center">My Stack~</h3>
+<h3 align="center">My Stack</h3>
 
 ###
 
