@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Estou graduando em Ciência da Computação pela UNESA, possuo experiência em projetos práticos extensionistas, através da faculdade adquiri conhecimentos em C++, Java, Python e React Native, sou uma pessoa muito proativa que adora aprender cada vez mais para alcançar seus objetivos. Atualmente estou estudando Javascript, Python e  SQL em cursos livres por que sou apaixonado na área e quero crescer cada vez mais contribuindo com todos ao meu redor.</h4>
+<h4 align="center">Full Stack Software Developer focado em construir aplicações escaláveis e bem estruturadas. Experiência prática com Node.js, React, TypeScript e C#, integração com bancos de dados SQL e desenvolvimento de soluções orientadas a problemas reais.</h4>
 
 ###
 
