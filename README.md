@@ -1,73 +1,103 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1D4ED8,100:38BDF8&text=Thiago%20Albuquerque&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=60&descSize=17&animation=fadeIn"/>
-
 <div align="center">
 
-### Building reliable software for real-world problems
-
-Software Engineer focused on backend development, modern web applications, automation and artificial intelligence.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:020617,45:0F172A,100:0EA5E9&text=Thiago%20Albuquerque&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Systems&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/thiago-soares-albuquerque">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems;Designing+reliable+APIs+and+automations;Turning+complex+problems+into+working+software)](https://git.io/typing-svg)
+
+<br>
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:thiagodevpro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/thiago-soares-albuquerque">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="SEU_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-## Sobre mim
+## About
 
-Sou desenvolvedor de software e estudante de Ciência da Computação, com foco em criar aplicações completas, APIs, automações e soluções com inteligência artificial.
+Software Engineer focused on **backend development, APIs, automation and AI-powered systems**.
 
-Minha principal stack inclui **TypeScript, Node.js, Python, React e PostgreSQL**. Também trabalho com integração de APIs, modelagem de dados, visão computacional, Docker e cloud.
+I design and build applications with **TypeScript, Node.js, Python, React and PostgreSQL**, combining clean architecture, testing, performance, security and maintainability.
 
-Busco construir sistemas bem organizados, testáveis, seguros e fáceis de evoluir.
+My work includes full-stack applications, API integrations, data processing, computer vision and cloud-ready solutions.
 
-## Principais tecnologias
+<br>
+
+## Core stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,postgres,docker,git,github,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,postgres,mongodb,redis,docker,git,githubactions,aws&theme=dark"/>
 
 </div>
 
-## Projeto em destaque
+<br>
 
-### Automação inteligente para processamento de provas
+## Engineering focus
 
-Desenvolvi uma solução com **Python, visão computacional e Gemini API** para apoiar o processamento de aproximadamente **60 mil provas**.
+<table>
+<tr>
+<td width="25%" align="center">
 
-O sistema automatizou etapas de leitura, extração, validação e organização dos dados, reduzindo tarefas repetitivas e facilitando a geração de resultados estruturados.
+### Backend
 
-`Python` `Computer Vision` `Gemini API` `Automation`
+APIs, business rules, authentication and integrations
 
-## Áreas de interesse
+</td>
+<td width="25%" align="center">
+
+### Architecture
+
+Modular design, scalability and maintainability
+
+</td>
+<td width="25%" align="center">
+
+### Quality
+
+Automated tests, validation and error handling
+
+</td>
+<td width="25%" align="center">
+
+### Delivery
+
+Docker, CI/CD, cloud and observability
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured impact
+
+### Intelligent exam processing system
+
+Built an automation solution using **Python, computer vision and Gemini API** to support the processing of approximately **60,000 exams**.
+
+The system automated image analysis, data extraction, validation and structured report generation, reducing repetitive work and improving the reliability of the process.
+
+`Python` `Computer Vision` `Gemini API` `Automation` `Data Processing`
+
+<br>
+
+## GitHub overview
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend-111827?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-111827?style=flat-square)
-![AI](https://img.shields.io/badge/Inteligência_Artificial-111827?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-111827?style=flat-square)
-![Architecture](https://img.shields.io/badge/Arquitetura_de_Software-111827?style=flat-square)
-![HealthTech](https://img.shields.io/badge/HealthTech-111827?style=flat-square)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github"/>
 
-</div>
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thi019ago&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=1D4ED8&text_color=C9D1D9&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi019ago&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=6"/>
 
 </div>
 
@@ -75,10 +105,11 @@ O sistema automatizou etapas de leitura, extração, validação e organização
 
 <div align="center">
 
-### Aberto a oportunidades remotas e projetos desafiadores
+### Open to remote software engineering opportunities
 
-Backend • Full Stack • APIs • Automação • Inteligência Artificial
+Backend Engineering • Full Stack • APIs • Automation • Artificial Intelligence
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:1D4ED8,100:38BDF8&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,45:0F172A,100:0EA5E9&section=footer"/>
+
