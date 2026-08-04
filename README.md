@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:020617,45:0F172A,100:0EA5E9&text=Thiago%20Albuquerque&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Systems&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,55:111827,100:0EA5E9&text=Thiago%20Albuquerque&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Systems&descAlignY=62&descSize=18"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems;Designing+reliable+APIs+and+automations;Turning+complex+problems+into+working+software)](https://git.io/typing-svg)
+### Building scalable software, reliable APIs and intelligent automations
 
 <br>
 
 <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:thiagodevpro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="SEU_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -24,15 +24,45 @@
 
 ## About
 
-Software Engineer focused on **backend development, APIs, automation and AI-powered systems**.
+Software Engineer focused on backend development, APIs, automation and AI-powered systems.
 
-I design and build applications with **TypeScript, Node.js, Python, React and PostgreSQL**, combining clean architecture, testing, performance, security and maintainability.
+I build robust applications with **TypeScript, Node.js, Python, React and PostgreSQL**, applying clean architecture, automated testing, security, performance and maintainability.
 
-My work includes full-stack applications, API integrations, data processing, computer vision and cloud-ready solutions.
+My experience includes full-stack applications, system integrations, data processing, computer vision and cloud-ready solutions.
 
 <br>
 
-## Core stack
+## Core expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend Engineering
+
+APIs, authentication, business rules, database modeling and integrations.
+
+</td>
+<td width="33%" valign="top">
+
+### Software Architecture
+
+Modular design, scalability, maintainability and clear responsibilities.
+
+</td>
+<td width="33%" valign="top">
+
+### AI & Automation
+
+Computer vision, intelligent workflows, data extraction and process automation.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Main stack
 
 <div align="center">
 
@@ -42,64 +72,43 @@ My work includes full-stack applications, API integrations, data processing, com
 
 <br>
 
-## Engineering focus
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### Backend
-
-APIs, business rules, authentication and integrations
-
-</td>
-<td width="25%" align="center">
-
-### Architecture
-
-Modular design, scalability and maintainability
-
-</td>
-<td width="25%" align="center">
-
-### Quality
-
-Automated tests, validation and error handling
-
-</td>
-<td width="25%" align="center">
-
-### Delivery
-
-Docker, CI/CD, cloud and observability
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## Featured impact
 
 ### Intelligent exam processing system
 
-Built an automation solution using **Python, computer vision and Gemini API** to support the processing of approximately **60,000 exams**.
+Developed an automation solution using **Python, computer vision and Gemini API** to support the processing of approximately **60,000 exams**.
 
-The system automated image analysis, data extraction, validation and structured report generation, reducing repetitive work and improving the reliability of the process.
-
-`Python` `Computer Vision` `Gemini API` `Automation` `Data Processing`
-
-<br>
-
-## GitHub overview
+The system automated image analysis, data extraction, validation and structured report generation, reducing repetitive work and improving process reliability.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=6"/>
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini_API-111827?style=flat-square&logo=google&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square)
+![Data Processing](https://img.shields.io/badge/Data_Processing-111827?style=flat-square)
 
 </div>
+
+<br>
+
+## Engineering principles
+
+<div align="center">
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-0F172A?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-0F172A?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-0F172A?style=for-the-badge)
+
+</div>
+
+<br>
+
+## Current focus
+
+Backend Engineering • Distributed Systems • Cloud • Observability • Artificial Intelligence
 
 <br>
 
@@ -107,9 +116,8 @@ The system automated image analysis, data extraction, validation and structured 
 
 ### Open to remote software engineering opportunities
 
-Backend Engineering • Full Stack • APIs • Automation • Artificial Intelligence
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/Let%27s_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,45:0F172A,100:0EA5E9&section=footer"/>
-
