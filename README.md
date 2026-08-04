@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="SEU_LINKEDIN" title="LinkedIn">
+<a href="https://www.linkedin.com/in/thiago-soares-albuquerque/?locale=pt" title="LinkedIn">
   <img height="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
@@ -18,9 +18,6 @@
   <img height="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="SEU_PORTFOLIO" title="Portfolio">
-  <img height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio"/>
-</a>
 
 <br><br>
 
@@ -120,10 +117,24 @@ Backend Engineering • Distributed Systems • Cloud • Observability • Arti
 
 <div align="center">
 
-### Open to remote software engineering opportunities
+<h3>Let’s create software that makes an impact.</h3>
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/Let%27s_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+Backend Engineering &nbsp;•&nbsp; APIs &nbsp;•&nbsp; Automation &nbsp;•&nbsp; AI Systems
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/thiago-soares-albuquerque/?locale=pt" title="Connect on LinkedIn">
+  <img height="42" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
+<a href="mailto:thiagodevpro@gmail.com" title="Send an email">
+  <img height="42" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
+</a>
+
+<br><br>
+
+<sub>Open to remote opportunities, collaborations and challenging software projects.</sub>
 
 </div>
