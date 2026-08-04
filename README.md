@@ -8,15 +8,21 @@
 
 <br>
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+
+<a href="SEU_LINKEDIN" title="LinkedIn">
+  <img height="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
 </a>
-<a href="mailto:thiagodevpro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="mailto:thiagodevpro@gmail.com" title="Email">
+  <img height="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
 </a>
-<a href="SEU_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="SEU_PORTFOLIO" title="Portfolio">
+  <img height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio"/>
 </a>
+
+<br><br>
 
 </div>
 
